@@ -30,7 +30,7 @@ module.exports = {
       dashboard: "ข้อมูลสรุป",
       edit: "%{name} #%{id}",
       error: "เกิดข้อผิดพลาดบางอย่าง",
-      list: "%{name} รายการ",
+      list: "รายการ %{name}",
       loading: "กำลังโหลด",
       not_found: "ไม่พบ",
       show: "%{name} #%{id}"
