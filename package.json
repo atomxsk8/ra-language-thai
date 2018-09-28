@@ -1,0 +1,25 @@
+{
+  "name": "ra-language-thai",
+  "version": "2.2.0",
+  "description": "Thai messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomxsk8/ra-language-thai.git"
+  },
+  "keywords": [
+    "react",
+    "react-admin",
+    "react-admin",
+    "translation"
+  ],
+  "author": "Thanakorn Khumsub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomxsk8/ra-language-thai/issues"
+  },
+  "homepage": "https://github.com/atomxsk8/ra-language-thai#readme"
+}
